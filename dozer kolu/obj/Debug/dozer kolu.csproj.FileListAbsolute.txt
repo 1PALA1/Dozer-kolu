@@ -1,0 +1,11 @@
+C:\Users\emrul\source\repos\dozer kolu\dozer kolu\obj\Debug\dozer kolu.csproj.AssemblyReference.cache
+C:\Users\emrul\source\repos\dozer kolu\dozer kolu\obj\Debug\dozer kolu.csproj.SuggestedBindingRedirects.cache
+C:\Users\emrul\source\repos\dozer kolu\dozer kolu\obj\Debug\dozer_kolu.Form1.resources
+C:\Users\emrul\source\repos\dozer kolu\dozer kolu\obj\Debug\dozer_kolu.Properties.Resources.resources
+C:\Users\emrul\source\repos\dozer kolu\dozer kolu\obj\Debug\dozer kolu.csproj.GenerateResource.cache
+C:\Users\emrul\source\repos\dozer kolu\dozer kolu\obj\Debug\dozer kolu.csproj.CoreCompileInputs.cache
+C:\Users\emrul\source\repos\dozer kolu\dozer kolu\bin\Debug\dozer kolu.exe.config
+C:\Users\emrul\source\repos\dozer kolu\dozer kolu\bin\Debug\dozer kolu.exe
+C:\Users\emrul\source\repos\dozer kolu\dozer kolu\bin\Debug\dozer kolu.pdb
+C:\Users\emrul\source\repos\dozer kolu\dozer kolu\obj\Debug\dozer kolu.exe
+C:\Users\emrul\source\repos\dozer kolu\dozer kolu\obj\Debug\dozer kolu.pdb
